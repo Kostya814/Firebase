@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "304571819240",
+    "firebase_url": "https://database-bdc1a-default-rtdb.firebaseio.com",
+    "project_id": "database-bdc1a",
+    "storage_bucket": "database-bdc1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304571819240:android:ad6a35ab551bea47c1955d",
+        "android_client_info": {
+          "package_name": "com.example.firedatabase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDihIDV6Yx81LKcnB1hkgv8oYCvcyXAsaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
